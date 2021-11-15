@@ -8,7 +8,7 @@ smtp_port = 587
 username = '***@gmail.com'
 password = '***'    #プログラムをメールで送る用のパスワードを入力
 
-from_email = 'a:::@gmail.com'
+from_email = '***@gmail.com'
 to_email = '***@***
 
 msg = message.EmailMessage()
